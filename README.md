@@ -1,6 +1,8 @@
 # spring-config-server
 Example for Spring Cloud Config Server
 
+Spring Cloud Config is Spring's client/server approach for storing and serving distributed configurations across multiple applications and environments.
+
 The Git-backed configuration API provided by our server can be queried using the following paths:
 
 	/{application}/{profile}[/{label}]
